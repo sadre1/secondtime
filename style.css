@@ -67,3 +67,21 @@ position: relative;
 .time{
   width: 15%;
 }
+.bottom-container{
+  background-color: #CDF0EA;
+}
+hr{
+  border-color: #CDF0EA;
+  border-width: 7px;
+  border-style:none;
+  width: 8%;
+  border-top-style: dotted;
+}
+.contact-me{
+  margin-bottom: 70px;
+}
+.btn{
+  background-color: #519259;
+  height: 3;
+  color: white;
+}
